@@ -1,7 +1,7 @@
 - 👋 Hello, I'm Tejas Thind, an engineering student at the University of Waterloo.
 - 👀 I’m interested in exploring new emerging technologies and how they affect the world around us!
-- :computer: Im currently broadening my understanding of Python and its frameworks/libraries, while also delving into its potential applications in machine learning.
-- :ghost: I am enthusiastic about exploring additional languages such as HTML, CSS, and JavaScript (including React.js, Node.js, and Express.js).
+- :computer: I'm currently broadening my understanding of JavaScript and its frameworks/libraries, while also delving into pythons's potential applications in machine learning.
+- :ghost: I am enthusiastic about exploring additional frameworks such as Node.js, and Express.js.
 - 📫 For any inquiries, feel free to contact me at tejas.st0544@gmail.com!
 - ⚡ Fun fact: I enjoy staying active and participating in sports such as basketball, volleyball, ultimate frisbee, and soccer.
 
