@@ -1,5 +1,5 @@
-- 👋 Hello, I'm Tejas Thind, an engineering student at the University of Waterloo.
-- :computer: I'm currently broadening my knowledge in data science and ML topics, after recently building a project using Pandas, NumPy, and scikit-learn.
+- 👋 Hello, I'm Tejas Thind, a Management Engineering student at the University of Waterloo.
+- :computer: I'm currently broadening my knowledge in data science and ML topics by helping build an AI-driven system that predicts the geological formations ahead of an oil drill in real-time.
 - 📫 For any inquiries, feel free to contact me at t3thind@uwaterloo.ca!
 
 <!---
